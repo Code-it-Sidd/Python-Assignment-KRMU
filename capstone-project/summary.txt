@@ -1,0 +1,31 @@
+
+===============================
+  CAMPUS ENERGY SUMMARY REPORT
+===============================
+
+Total Campus Consumption: 464.7 kWh
+
+Highest Consuming Building:
+• Admin
+• 105.0 kWh
+
+Peak Usage:
+• Building: nan
+• Time: 2025-01-01 00:00:00
+• kWh: 35.2
+
+
+=== BUILDING REPORTS ===
+Building: Admin
+Total Consumption: 105.0 kWh
+Average Consumption: 26.25 kWh
+
+Building: nan
+Total Consumption: 294.7 kWh
+Average Consumption: 24.56 kWh
+
+Building: Library
+Total Consumption: 65.0 kWh
+Average Consumption: 16.25 kWh
+
+
