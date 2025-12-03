@@ -1,0 +1,14 @@
+[
+    {
+        "title": "The art of war",
+        "author": "Sun Tzu",
+        "isbn": "1",
+        "status": "available"
+    },
+    {
+        "title": "abc",
+        "author": "xyz",
+        "isbn": "1",
+        "status": "available"
+    }
+]
